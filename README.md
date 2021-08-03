@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 ### Hello World, I'm Murat 👋
 
-## I'm a Developer!!
-
 <br />
 
 [![Doringl's GitHub stats](https://github-readme-stats.vercel.app/api?username=maqtay&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
