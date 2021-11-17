@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Hello World, I'm Murat 👋
 
 <br />
-I'm working as a Junior Full Stack Developer at Detaysoft company.
+I'm working as a Junior Android Developer at Detaysoft company for Modanisa.
 
 <br />
 <br />
