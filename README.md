@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 ### Hello World, I'm Murat 👋
 
 <br />
-I'm working as an Android Developer at Detaysoft company for Modanisa.
+I'm working as an Android Developer at Supplementler
